@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">CarsViewerTask</string>
+    <string name="built_dates_title">Buit Dates</string>
+    <string name="manufactures">Manufactures</string>
+
+</resources>
